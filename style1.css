@@ -1,0 +1,26 @@
+.box-login{
+  width: 80px;
+  height: 90px;
+  background: white;
+  box-shado: 0 0 10px 0 blue;
+  
+}
+
+.up-box{
+  color: #0a67ff;
+  height: 50px;
+  border-radius: 10px ;
+  box-shadow:0 0 10px 2px blue;
+  text-align: center;
+  line-height: 50px;
+}
+
+.sign-in{
+  text-align:center;
+  border-radius:10px;
+}
+
+.pass{
+  text-align: center;
+  
+}
